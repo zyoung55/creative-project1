@@ -65,3 +65,12 @@ footer li {
 	design: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr
 }
+
+.store-grid {
+	design: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+.store-pics {
+	width: 32.9%;
+}
