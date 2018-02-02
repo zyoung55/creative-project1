@@ -1,28 +1,28 @@
 ul {
-   list-style-type: none;
-    margin: 0;
-    padding: 0;
-    border: 0.9px solid black;
-    overflow: hidden;
-    background-color: #31A6E8;
+	list-style-type: none;
+    	margin: 0;
+    	padding: 0;
+    	border: 0.9px solid black;
+    	overflow: hidden;
+        background-color: #31A6E8;
 }
 
 nav li {
-   float: left;
+       float: left;
 }
 
 nav a {
-    display: block;
-    padding: 8px;
-    color: white;
-    background-color: #31A6E8;
-    text-decoration: none;
-    text-align: center;
-    font-color: black;
+	display: block;
+    	padding: 8px;
+    	color: white;
+    	background-color: #31A6E8;
+    	text-decoration: none;
+    	text-align: center;
+	font-color: black;
 }
 
 nav li a:hover {
-   background-color: #B7C1E8;
+        background-color: #B7C1E8;
 }
 
 .active {
@@ -84,9 +84,4 @@ footer li {
 
 .false-link {
 	text-align: center;
-}
-
-input[type=text], select {
-	display: inline-block;
-	width: 100%;
 }
