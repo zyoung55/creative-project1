@@ -1,9 +1,3 @@
-
-.topnavigation {
-  overflow: hidden;
-  background-color: red;
-}
-
 ul {
    list-style-type: none;
     margin: 0;
@@ -82,4 +76,16 @@ footer li {
         width: 60%;
         margin-left: auto;
         margin-right: auto;
+}
+
+.block-paragraph {
+	text-align: center;
+}
+
+.false-link {
+	text-align: center;
+}
+
+.form {
+
 }
